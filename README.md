@@ -2,7 +2,7 @@
 
 A modern, responsive static restaurant website built with HTML and CSS. Features a beautiful hero section, menu showcase, and clean footer design.
 
-![Website Preview](http://muhammad-hussain-sites-rsturant-web.surge.sh/)
+![Website Preview]  http://muhammad-hussain-sites-rsturant-web.surge.sh/
 
 ## ✨ Features
 
@@ -23,20 +23,31 @@ A modern, responsive static restaurant website built with HTML and CSS. Features
 ## 📁 Project Structure
 
 restaurant-website/
+
 ├── index.html
+
 ├── style.css
+
 ├── Images/
+
 │   ├── logo.png
+
 │   ├── hero_image.png
+
 │   ├── grid_image1.png to grid_image7.png
+
 │   └── ...
+
 └── Icons/
+
 ├── discount.png
+
 ├── fresh.png
+
 └── delivery.png
 
 ## 👨‍💻 Author
 
 **MUHAMMAD HUSSAIN**  
-- GitHub: [mhussain996]([https://github.com/yourusername](https://github.com/mhussain996))  
+- GitHub: [mhussain996](https://github.com/yourusername](https://github.com/mhussain996) 
 - LinkedIn: [Muhammad Hussain](www.linkedin.com/in/muhammad-hussain-0267b63b4) 
